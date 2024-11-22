@@ -1,0 +1,14 @@
+:root {
+  /* Colors */
+  --color-terracotta: #E07A5F;
+  --color-beige: #F2E9E4;
+  --color-teal: #81B29A;
+  --color-dark: #2C3639;
+
+  /* Typography */
+  --font-primary: 'Inter', sans-serif;
+  
+  /* Spacing */
+  --container-padding: 1.5rem;
+  --section-spacing: 5rem;
+} 
